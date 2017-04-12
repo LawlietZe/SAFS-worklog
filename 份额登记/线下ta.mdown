@@ -1,4 +1,4 @@
-[![N|Solid](img/safs_logo.png)](https://www.cn-abs.com/Market/MarketSummary.aspx)
+[![N|Solid](../img/safs_logo.png)](https://www.cn-abs.com/Market/MarketSummary.aspx)
 
 # 关于IE8浏览器下的兼容性测试
 
