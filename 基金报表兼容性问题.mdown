@@ -1,0 +1,17 @@
+[![N|Solid](img/safs_logo.png)](https://www.cn-abs.com/Market/MarketSummary.aspx)
+
+# 关于IE8浏览器下的兼容性测试
+
+#### 2017/4/10
+
+`DengDeng`&`HaoYu`&`WenTing`
+#基金报表
+## IE8下的兼容性bug清单：
+
+| 控件/页面 | 备注 | 原因 | 状态 |
+| ------- | ----- | ----- | ---- |
+| 估值核算-->基金报表| alertify js 报错 | JS插件兼容问题 | 未修复 |
+| 估值核算-->信息披露| handsontable js 报错 | JS插件兼容问题 | 未修复http://docs.handsontable.com/0.31.2/tutorial-compatibility.html |
+
+
+
