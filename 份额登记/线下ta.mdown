@@ -1,0 +1,18 @@
+[![N|Solid](img/safs_logo.png)](https://www.cn-abs.com/Market/MarketSummary.aspx)
+
+# 关于IE8浏览器下的兼容性测试
+
+#### 2017/4/10
+
+`DengDeng`&`HaoYu`&`WenTing`
+#线下ta
+## IE8下的兼容性bug清单：
+
+| 控件/页面 | 备注 | 原因 | 状态 |
+| ------- | ----- | ----- | ---- |
+| 线下ta-->认赎操作| radio样式错误 | ie样式兼容问题 | 已修复 |
+| 线下ta-->认赎操作| 滚动栏问题样式错误 | ie样式兼容问题 | 已修复 |
+| 线下ta-->份额管理| iframe背景留白问题 | ie样式兼容问题 | 未修复 |
+
+
+
